@@ -4,4 +4,4 @@ https://reactjs.org/
 http://es.redux.js.org/
 
 # Ejemplo simple de hola mundo con React.js
-https://codepen.io/DanielGeek/pen/MQdowB
+https://codepen.io/DanielGeek/pen/MQdowBls
