@@ -8,3 +8,9 @@ https://codepen.io/DanielGeek/pen/MQdowBls
 
 # Ejemplo de arrow function ES6
 https://codepen.io/DanielGeek/pen/KQLZPY?editors=0011
+
+# ES6: Object Destructuring
+https://codepen.io/DanielGeek/pen/PQvQjw?editors=0011
+
+# Array destructuring
+https://codepen.io/DanielGeek/pen/zRQRWa?editors=0011
