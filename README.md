@@ -13,4 +13,7 @@ https://codepen.io/DanielGeek/pen/KQLZPY?editors=0011
 https://codepen.io/DanielGeek/pen/PQvQjw?editors=0011
 
 # Array destructuring
-https://codepen.io/DanielGeek/pen/zRQRWa?editors=0011
+https://codepen.io/DanielGeek/pen/zRQRWa?editors=0011git
+
+# ES6: Template Strings
+https://codepen.io/DanielGeek/pen/NYqXOp?editors=0011
