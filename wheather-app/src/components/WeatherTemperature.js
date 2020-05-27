@@ -1,7 +1,7 @@
 import React from 'react';
 
 const WeatherTemperature = () => (
-    <div><span>25º</span></div>
+    <div><span>11º</span></div>
 );
 
 export default WeatherTemperature;
